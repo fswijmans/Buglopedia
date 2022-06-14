@@ -1,6 +1,5 @@
 <template>
-  <h1>Hi</h1>
-      <!-- <GenerateBug /> -->
+    <GenerateBug />
 </template>
 
 <script setup>
